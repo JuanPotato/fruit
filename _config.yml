@@ -10,6 +10,7 @@ description: Gonna write about fruits here.
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
 
 remote_theme: jekyll/minima
 
