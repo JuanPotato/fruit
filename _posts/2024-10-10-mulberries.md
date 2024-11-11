@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Aleppo Berries"
+title:  "Syrian Berries"
 date:   2024-10-10 12:00:00 -0400
 header-image: mulberries.jpg
 ---
 
 {% include image.html url="/images/mulberries.jpg" %}
+
+An earlier version of this post was called "Aleppo Berries" because I
+misremembered what they were called. See the little note at the bottom.
 
 ### Syria
 
@@ -23,11 +26,11 @@ that will stay in my heart forever. It was home to a massive mulberry tree
 stretching its branches into the sky. I stained my clothes deep purple as I
 enjoyed every berry I could reach with my little arms.
 
-In Aleppo, we called mulberries توت (toot), which just translates to "berry".
-Outside, they're sometimes called توت حلبي (toot halabee) or _Aleppo Berry_. My
-faint memory of climbing the mulberry tree, eating to my heart's content, is one
-of few memories that tie me back to Syria. My mom is also fond of mulberries,
-which brings them even closer to my heart.
+In Arabic, we called mulberries توت (toot), which just translates to "berry".
+Red mulberries specifically are often called توت شامي (toot shami) or _Syrian
+Berry_. My faint memory of climbing the mulberry tree, eating to my heart's
+content, is one of few memories that tie me back to Syria. My mom is also fond
+of mulberries, which brings them even closer to my heart.
 
 {% include image.html url="/images/red_mulberries.jpg" description="Some
 &quot;red&quot; mulberries I foraged in new york." %}
@@ -74,11 +77,11 @@ there wasn't that many ripe berries yet. I took all the berries I could and
 marked the location to revisit as the summer progressed.
 
 After I told my friends at work about my new passion for foraging mulberries,
-one graciously informed me of [fallingfruit.org](https://fallingfruit.org), a
-website where people have marked not just mulberry trees, but all fruit bearing
-trees. This gave me little side quests to scout marked trees to find the best
-tasting. Slowly, I began to learn the characteristics of my favorite trees. The
-leaves have jagged edges and can range from leaf-shaped to squiggly-leaf-shaped.
+one graciously informed me of [fallingfruit.org][1], a website where people have
+marked not just mulberry trees, but all fruit bearing trees. This gave me little
+side quests to scout marked trees to find the best tasting. Slowly, I began to
+learn the characteristics of my favorite trees. The leaves have jagged edges and
+can range from leaf-shaped to squiggly-leaf-shaped.
 
 {% include image.html url="/images/side_by_side.jpg" description="By coincidence
 these also happen to be a red mulberry tree on the left and white mulberry tree
@@ -148,3 +151,17 @@ I'm now constantly looking at trees, always pointing out mulberry trees to my
 friends when I see them, even without the fruit. Maybe as a way of making sure
 they don't forget that I like mulberries. But also maybe as a way to constantly
 remind myself of my home.
+
+### Further Research (October 19, 2024)
+
+Upon asking my mom about mulberries, turns out they are not called Aleppo
+Berries. They're called توت شامي (toot shami) which means _Al-Sham Berry_ or
+_Syrian Berry_. The wikipedia page for [black mulberries][2] confirms this name.
+
+I found a [blog post][3] someone had written back in 2006 about toot shami in
+Syria. I didn't know that they made it into juice. I wish I could have
+experienced it.
+
+[1]: https://fallingfruit.org
+[2]: https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%AA_%D8%A3%D8%B3%D9%88%D8%AF
+[3]: http://web.archive.org/web/20231123064846/https://ninemonthsinsyria.blogspot.com/2006/09/beware-toot-shami.html
