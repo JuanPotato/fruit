@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Syrian Berries"
+title:  "Shami Berries"
 date:   2024-10-10 12:00:00 -0400
 header-image: mulberries.jpg
 ---
@@ -27,7 +27,7 @@ stretching its branches into the sky. I stained my clothes deep purple as I
 enjoyed every berry I could reach with my little arms.
 
 In Arabic, we called mulberries توت (toot), which just translates to "berry".
-Red mulberries specifically are often called توت شامي (toot shami) or _Syrian
+Red mulberries specifically are often called توت شامي (toot shami) or _Shami
 Berry_. My faint memory of climbing the mulberry tree, eating to my heart's
 content, is one of few memories that tie me back to Syria. My mom is also fond
 of mulberries, which brings them even closer to my heart.
@@ -156,11 +156,11 @@ remind myself of my home.
 
 Upon asking my mom about mulberries, turns out they are not called Aleppo
 Berries. They're called توت شامي (toot shami) which means _Al-Sham Berry_ or
-_Syrian Berry_. The wikipedia page for [black mulberries][2] confirms this name.
+_Syrian Berry_ depending on how you want to translate it.
 
-I found a [blog post][3] someone had written back in 2006 about toot shami in
-Syria. I didn't know that they made it into juice. I wish I could have
-experienced it.
+The wikipedia page for [black mulberries][2] confirms this name. I found a
+[blog post][3] someone had written back in 2006 about toot shami in Syria. I
+didn't know that they made it into juice. I wish I could have experienced it.
 
 [1]: https://fallingfruit.org
 [2]: https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%AA_%D8%A3%D8%B3%D9%88%D8%AF
